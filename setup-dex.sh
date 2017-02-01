@@ -1,3 +1,4 @@
+mkdir /var/www/public
 cd /var/www/public
 git clone https://github.com/dexonline/dexonline DEX
 cd DEX
