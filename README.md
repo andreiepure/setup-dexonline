@@ -17,4 +17,4 @@ Urmează pașii de la https://box.scotch.io/ -> Get Started, pașii 1-5
 
 ## Deschide pagina
 
-În gazdă, accesează dexonline la http://192.168.33.10/DEX/wwwbase/
+În gazdă, accesează dexonline la http://192.168.33.10/dexonline/wwwbase/
