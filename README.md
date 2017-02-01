@@ -1,4 +1,5 @@
 # setup-dexonline
+
 script to setup the dexonline dev environment
 
 # SETUP
@@ -14,3 +15,6 @@ Urmează pașii de la https://box.scotch.io/ -> Get Started, pașii 1-5
 ## Rulează scriptul de instalare
   `wget https://raw.githubusercontent.com/andreiepure/setup-dexonline/master/setup-dex.sh && chmod +x setup-dex.sh && sudo sh setup-dex.sh`
 
+## Deschide pagina
+
+În gazdă, accesează dexonline la http://192.168.33.10/DEX/wwwbase/
